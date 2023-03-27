@@ -1,0 +1,1 @@
+Help on str in string object:
