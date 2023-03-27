@@ -1,0 +1,21 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    class Movie:
+        # create class here
+
+
+    # objects of the class Movie
+    titanic = # ...
+    star_wars = # ...
+    fight_club = # ...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6674#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 24 Mar 2023 22:04:55 UTC"
+record: -1
+submission_language: python3
